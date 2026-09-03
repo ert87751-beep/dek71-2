@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกการออกห้องก่อนเวลา (dek71)",
+  "description": "ระบบบันทึกเวลาและแจ้งเตือนทันทีเมื่อมีการเช็คเอาท์ก่อนกำหนด สำหรับนักเรียน ม.1-ม.6 (ชั้นละ 2 ห้อง) พร้อมระบบจัดการข้อมูลสำหรับผู้ดูแลระบบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
